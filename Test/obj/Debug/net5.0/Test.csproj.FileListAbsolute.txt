@@ -1,0 +1,15 @@
+E:\Projects\Test\bin\Debug\net5.0\Test.exe
+E:\Projects\Test\bin\Debug\net5.0\Test.deps.json
+E:\Projects\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+E:\Projects\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+E:\Projects\Test\bin\Debug\net5.0\Test.dll
+E:\Projects\Test\bin\Debug\net5.0\Test.pdb
+E:\Projects\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+E:\Projects\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+E:\Projects\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+E:\Projects\Test\obj\Debug\net5.0\Test.dll
+E:\Projects\Test\obj\Debug\net5.0\refint\Test.dll
+E:\Projects\Test\obj\Debug\net5.0\Test.pdb
+E:\Projects\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+E:\Projects\Test\obj\Debug\net5.0\ref\Test.dll
